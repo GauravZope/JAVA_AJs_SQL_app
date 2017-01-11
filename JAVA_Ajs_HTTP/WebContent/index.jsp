@@ -7,7 +7,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <script type="text/javascript">
-//comment by gz
 var myHTTPAJsApp = angular.module("myHTTPAJsApp", [])
 						.controller("myAjsHttpCtrl", function($scope,$http) {
 							$scope.getDataFromServer = function() {
