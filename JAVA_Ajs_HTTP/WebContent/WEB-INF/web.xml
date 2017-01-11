@@ -7,8 +7,9 @@
     <servlet-name>javaAngularJS</servlet-name>
     <servlet-class>com.controller.AngularJsServlet</servlet-class>
   </servlet>
-  <servlet-mapping>
-    <servlet-name>javaAngularJS</servlet-name>
-    <url-pattern>/javaAngularJS</url-pattern>
-  </servlet-mapping>
+	  <servlet-mapping>
+	   
+	      <servlet-name>javaAngularJS</servlet-name>
+	    <url-pattern>/javaAngularJS</url-pattern>
+	  </servlet-mapping>
 </web-app>
