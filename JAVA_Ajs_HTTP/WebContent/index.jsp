@@ -23,6 +23,7 @@ var myHTTPAJsApp = angular.module("myHTTPAJsApp", [])
 								});
 							};
 						});
+						
 </script>
 <title>Welcome Page</title>
 </head>
