@@ -11,5 +11,14 @@
 	   
 	      <servlet-name>javaAngularJS</servlet-name>
 	    <url-pattern>/javaAngularJS</url-pattern>
+	</servlet-mapping>
+	<servlet>
+    <servlet-name>employeeDetailsAJs</servlet-name>
+    <servlet-class>com.controller.EmployeeDetailsAction</servlet-class>
+  </servlet>
+	  <servlet-mapping>
+	   
+	      <servlet-name>employeeDetailsAJs</servlet-name>
+	    <url-pattern>/employeeDetailsAJs</url-pattern>
 	  </servlet-mapping>
 </web-app>
