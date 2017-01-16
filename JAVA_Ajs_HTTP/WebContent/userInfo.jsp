@@ -8,7 +8,6 @@
 	<link rel=stylesheet href="/JAVA_Ajs_HTTP/css/commonCSS.css">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
 <title>Welcome Page</title>
 </head>
 <body data-ng-app="myHTTPAJsApp">
@@ -48,6 +47,5 @@
 			</tbody>	
 		</table>
 	</div>
-
 </body>
 </html>
